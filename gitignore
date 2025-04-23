@@ -1,0 +1,10 @@
+# Evitar subir archivos temporales o de sistema
+.DS_Store
+Thumbs.db
+
+# Entornos de desarrollo (VS Code, WebStorm, etc.)
+.vscode/
+.idea/
+
+# node_modules si algún día usas npm
+node_modules/
